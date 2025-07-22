@@ -1,0 +1,22 @@
+DeepLearning-NeuralNetworks/
+│
+├── README.md                  # This file
+├── ANN/                       # Artificial Neural Network
+│   ├── ann_explanation.md     # Theory and explanation
+│   ├── ann_code.py            # Code implementation
+│
+├── DNN/                       # Dense Neural Network
+│   ├── dnn_explanation.md     # Theory and explanation
+│   ├── dnn_code.py            # Code implementation
+│
+├── RNN/                       # Recurrent Neural Network
+│   ├── rnn_explanation.md     # Theory and explanation
+│   ├── rnn_code.py            # Code implementation
+│
+├── CNN/                       # Convolutional Neural Network
+│   ├── cnn_explanation.md     # Theory and explanation
+│   ├── cnn_code.py            # Code implementation
+│
+└── datasets/                  # Sample datasets for testing
+    ├── mnist_dataset.csv      # Example dataset for CNN/DNN
+    ├── time_series_data.csv   # Example dataset for RNN
