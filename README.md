@@ -1,4 +1,4 @@
-# Deep Learning Neural Networks Explained(ON-GOING)
+# Neural Networks Explained (In progress)
 Welcome to DeepLearning-NeuralNetworks, a repository that offers a clear introduction to the basic neural network architectures in deep learning. This repository includes explanations, visualizations, and Python code implementations for the following neural networks:
 
 - Artificial Neural Networks (ANNs)
@@ -32,9 +32,9 @@ Basic knowledge of Python programming and machine learning concepts.
 ### Artificial Neural Networks (ANNs)
 ANNs are the foundation of deep learning. They consist of layers of interconnected neurons and are used for tasks like regression and classification.
 
-- Explanation : ANN/ann_explanation.md
+- Explanation : [ANN Explanation](https://github.com/Uttarayan002/DeepLearning-NeuralNetworks/blob/main/Artificial%20Neural%20Network/Readme.md)
 
-- Code : ANN/ann_code.py
+- Code : [All ANN modular codes](https://github.com/Uttarayan002/DeepLearning-NeuralNetworks/tree/main/Artificial%20Neural%20Network)
 
 ### Dense Neural Networks (DNNs)
 DNNs are fully connected networks where each neuron in one layer is connected to every neuron in the next layer. They are ideal for tabular data.
