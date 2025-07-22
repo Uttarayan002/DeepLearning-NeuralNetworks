@@ -8,9 +8,6 @@ Welcome to DeepLearning-NeuralNetworks, a repository that offers a clear introdu
 
 Whether you are new to this field or have experience, this repository aims to help you grasp the theory, uses, and implementation of these neural networks.
 
-# Repository Structure
-The repository is organized as follows: [Repository Structure](https://github.com/Uttarayan002/DeepLearning-NeuralNetworks/blob/main/Repo%20Structure.txt)
-
 
 # Introduction
 This repository serves as a practical guide to understanding the core neural network architectures used in deep learning. 
