@@ -34,7 +34,7 @@ ANNs are the foundation of deep learning. They consist of layers of interconnect
 
 - Explanation : [ANN Explanation](https://github.com/Uttarayan002/DeepLearning-NeuralNetworks/blob/main/Artificial%20Neural%20Network/Readme.md)
 
-- Code : [All ANN modular codes](https://github.com/Uttarayan002/DeepLearning-NeuralNetworks/tree/main/Artificial%20Neural%20Network)
+- Code : [All ANN modular codes]()
 
 ### Dense Neural Networks (DNNs)
 DNNs are fully connected networks where each neuron in one layer is connected to every neuron in the next layer. They are ideal for tabular data.
