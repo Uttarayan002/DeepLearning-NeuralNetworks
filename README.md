@@ -39,8 +39,8 @@ ANNs are the foundation of deep learning. They consist of layers of interconnect
 ### Dense Neural Networks (DNNs)
 DNNs are fully connected networks where each neuron in one layer is connected to every neuron in the next layer. They are ideal for tabular data.
 
-- Explanation : DNN/dnn_explanation.md
-- Code : DNN/dnn_code.py
+- Explanation : [dnn_explanation.md](https://github.com/Uttarayan002/DeepLearning-NeuralNetworks/edit/main/Dense%20Neural%20Network/README.md)
+- Code : 
 
 ### Recurrent Neural Networks (RNNs)
 RNNs are designed for sequential data and can capture temporal dependencies. Variants like LSTM and GRU are commonly used.
