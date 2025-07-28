@@ -42,11 +42,6 @@ DNNs are fully connected networks where each neuron in one layer is connected to
 - Explanation : [DNN Explanation](https://github.com/Uttarayan002/DeepLearning-NeuralNetworks/blob/main/Dense%20Neural%20Network/README.md)
 - Code : 
 
-### Convolutional Neural Networks (CNNs)
-CNNs excel at processing grid-like data such as images. They use convolutional layers to extract spatial features.
-
-- Explanation : [CNN explanation](https://github.com/Uttarayan002/DeepLearning-NeuralNetworks/blob/main/Convolutional%20Neural%20Network/README.md)
-- Code :
 
 ### Recurrent Neural Networks (RNNs)
 RNNs are designed for sequential data and can capture temporal dependencies. Variants like LSTM and GRU are commonly used.
